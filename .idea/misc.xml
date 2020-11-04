@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="field" FQNAME="adapter.loginadapter.Member addr" />
+      <entry_point TYPE="field" FQNAME="prototype.simple.ConcretePrototypeA age" />
+      <entry_point TYPE="field" FQNAME="adapter.loginadapter.Member age" />
+      <entry_point TYPE="field" FQNAME="strategy.pay.Order amount" />
+      <entry_point TYPE="field" FQNAME="prototype.deep.Monkey birthday" />
+      <entry_point TYPE="field" FQNAME="strategy.pay.MsgResult code" />
+      <entry_point TYPE="field" FQNAME="adapter.loginadapter.ResultMsg code" />
+      <entry_point TYPE="field" FQNAME="observer.observable.Question content" />
+      <entry_point TYPE="field" FQNAME="singleton.register.EnumSingleton data" />
+      <entry_point TYPE="field" FQNAME="strategy.pay.MsgResult data" />
+      <entry_point TYPE="field" FQNAME="adapter.loginadapter.ResultMsg data" />
+      <entry_point TYPE="field" FQNAME="prototype.simple.ConcretePrototypeA hobbies" />
+      <entry_point TYPE="field" FQNAME="prototype.deep.JinGuBang index" />
+      <entry_point TYPE="field" FQNAME="adapter.loginadapter.Member info" />
+      <entry_point TYPE="field" FQNAME="singleton.register.EnumSingleton INSTANCE" />
+      <entry_point TYPE="field" FQNAME="singleton.seriable.SerialSingleton INSTANCE" />
+      <entry_point TYPE="field" FQNAME="strategy.promotion.PromotionActivity iPromotionStrategy" />
+      <entry_point TYPE="field" FQNAME="adapter.loginadapter.Member mid" />
+      <entry_point TYPE="field" FQNAME="strategy.pay.MsgResult msg" />
+      <entry_point TYPE="field" FQNAME="adapter.loginadapter.ResultMsg msg" />
+      <entry_point TYPE="field" FQNAME="prototype.simple.ConcretePrototypeA name" />
+      <entry_point TYPE="field" FQNAME="prototype.deep.JinGuBang NAME" />
+      <entry_point TYPE="field" FQNAME="proxy.db.OrderServiceImpl orderDao" />
+      <entry_point TYPE="field" FQNAME="strategy.pay.Order orderId" />
+      <entry_point TYPE="field" FQNAME="adapter.loginadapter.Member password" />
+      <entry_point TYPE="field" FQNAME="prototype.simple.Client prototype" />
+      <entry_point TYPE="field" FQNAME="prototype.deep.JinGuBang serialVersionUID" />
+      <entry_point TYPE="field" FQNAME="prototype.deep.QiTianDaSheng serialVersionUID" />
+      <entry_point TYPE="field" FQNAME="singleton.seriable.SerialSingleton serialVersionUID" />
+      <entry_point TYPE="field" FQNAME="proxy.s.Father son" />
+      <entry_point TYPE="field" FQNAME="proxy.simple.Proxy subject" />
+      <entry_point TYPE="field" FQNAME="strategy.pay.Order uid" />
+      <entry_point TYPE="field" FQNAME="adapter.loginadapter.Member username" />
+      <entry_point TYPE="field" FQNAME="observer.observable.Question userName" />
+      <entry_point TYPE="field" FQNAME="prototype.deep.Monkey weight" />
+      <entry_point TYPE="field" FQNAME="observer.listener.core.Event callback" />
+      <entry_point TYPE="field" FQNAME="singleton.hungry.HungrySingleton HUNGRY_SINGLETON" />
+      <entry_point TYPE="field" FQNAME="singleton.hungry.HungryStaticSingleton HUNGRY_SINGLETON" />
+      <entry_point TYPE="field" FQNAME="singleton.lazy.LazyDoubleCheckSingleton lazy" />
+      <entry_point TYPE="field" FQNAME="singleton.lazy.LazyInnerClassSingleton.LazyHolder LAZY" />
+      <entry_point TYPE="field" FQNAME="singleton.lazy.LazySimpleSingleton lazy" />
+      <entry_point TYPE="field" FQNAME="proxy.dynamic.gp.GpProxy LN" />
+      <entry_point TYPE="field" FQNAME="proxy.dynamic.gp.GpProxy MAPPINGS" />
+      <entry_point TYPE="field" FQNAME="observer.listener.core.Event source" />
+      <entry_point TYPE="field" FQNAME="observer.listener.core.Event target" />
+      <entry_point TYPE="field" FQNAME="observer.listener.core.Event time" />
+      <entry_point TYPE="field" FQNAME="observer.listener.core.Event trigger" />
+    </entry_points>
+    <pattern value="decorator.battercake.v2.AbstractPancakeDecorator" />
+    <pattern value="strategy.pay.payport.AbstractPayment" />
+    <pattern value="observer.listener.mouse.Mouse" method="blur" />
+    <pattern value="proxy.dynamic.cglib.CglibTest" />
+    <pattern value="prototype.simple.Client" />
+    <pattern value="proxy.simple.Client" />
+    <pattern value="prototype.simple.ConcretePrototypeA" />
+    <pattern value="prototype.simple.ConcretePrototypeB" />
+    <pattern value="singleton.register.ContainerSingleton" />
+    <pattern value="factory.abstractfactory.ICourseFactory" method="createNote" />
+    <pattern value="proxy.db.OrderDao" method="createOrder" />
+    <pattern value="proxy.db.proxy.OrderServiceStaticProxyImpl" method="createOrder" />
+    <pattern value="factory.abstractfactory.ICourseFactory" method="createVideo" />
+    <pattern value="proxy.db.DbRouteProxyTest" />
+    <pattern value="decorator.passport.DecoratorTest" />
+    <pattern value="prototype.deep.DeepCloneTest" />
+    <pattern value="delegate.simple.DelegateTest" />
+    <pattern value="delegate.mvc.DispatcherServlet" />
+    <pattern value="decorator.battercake.v2.AbstractPancakeDecorator" method="doSomething" />
+    <pattern value="observer.listener.mouse.Mouse" method="doubleClick" />
+    <pattern value="observer.listener.mouse.Keyboard" method="down" />
+    <pattern value="observer.listener.mouse.Mouse" method="down" />
+    <pattern value="proxy.db.db.DynamicDataSourceEntity" />
+    <pattern value="proxy.s.Son" method="eat" />
+    <pattern value="singleton.register.EnumSingleton" />
+    <pattern value="observer.listener.core.Event" />
+    <pattern value="factory.factorymethod.FactoryMethodTest" />
+    <pattern value="proxy.s.Father" />
+    <pattern value="proxy.s.FatherProxyTest" />
+    <pattern value="proxy.s.Father" method="findJob" />
+    <pattern value="proxy.s.Son" method="findJob" />
+    <pattern value="proxy.dynamic.gp.Proxy0" method="findLove" />
+    <pattern value="proxy.db.db.DynamicDataSourceEntity" method="get" />
+    <pattern value="template.jdbc.Member" method="getAddr" />
+    <pattern value="template.jdbc.Member" method="getAge" />
+    <pattern value="decorator.passport.old.ResultMsg" method="getCode" />
+    <pattern value="singleton.register.EnumSingleton" method="getData" />
+    <pattern value="decorator.passport.old.ResultMsg" method="getData" />
+    <pattern value="proxy.db.Order" method="getId" />
+    <pattern value="decorator.passport.old.Member" method="getInfo" />
+    <pattern value="singleton.register.EnumSingleton" method="getInstance" />
+    <pattern value="singleton.hungry.HungrySingleton" method="getInstance" />
+    <pattern value="singleton.hungry.HungryStaticSingleton" method="getInstance" />
+    <pattern value="singleton.lazy.LazyDoubleCheckSingleton" method="getInstance" />
+    <pattern value="singleton.lazy.LazyInnerClassSingleton" method="getInstance" />
+    <pattern value="singleton.lazy.LazySimpleSingleton" method="getInstance" />
+    <pattern value="singleton.seriable.SerialSingleton" method="getInstance" />
+    <pattern value="singleton.threadlocal.ThreadLocalSingleton" method="getInstance" />
+    <pattern value="singleton.register.ContainerSingleton" method="getInstance" />
+    <pattern value="delegate.mvc.controller.MemberController" method="getMemberById" />
+    <pattern value="decorator.passport.old.Member" method="getMid" />
+    <pattern value="decorator.passport.old.ResultMsg" method="getMsg" />
+    <pattern value="template.jdbc.Member" method="getNickname" />
+    <pattern value="delegate.mvc.controller.OrderController" method="getOrderById" />
+    <pattern value="proxy.db.Order" method="getOrderInfo" />
+    <pattern value="decorator.passport.old.Member" method="getPassword" />
+    <pattern value="template.jdbc.Member" method="getPassword" />
+    <pattern value="observer.listener.core.Event" method="getSource" />
+    <pattern value="observer.listener.core.Event" method="getTime" />
+    <pattern value="decorator.passport.old.Member" method="getUsername" />
+    <pattern value="template.jdbc.Member" method="getUsername" />
+    <pattern value="observer.guava.GuavaEvent" />
+    <pattern value="observer.guava.GuavaEventTest" />
+    <pattern value="singleton.hungry.HungrySingleton" />
+    <pattern value="singleton.hungry.HungryStaticSingleton" />
+    <pattern value="factory.abstractfactory.ICourseFactory" />
+    <pattern value="proxy.db.OrderDao" method="insert" />
+    <pattern value="adapter.loginadapter.v2.IPassportForThird" />
+    <pattern value="decorator.passport.upgrade.ISignInForThirdService" />
+    <pattern value="decorator.passport.old.ISignInService" />
+    <pattern value="prototype.deep.JinGuBang" />
+    <pattern value="observer.listener.mouse.Keyboard" />
+    <pattern value="singleton.lazy.LazyDoubleCheckSingleton" />
+    <pattern value="singleton.lazy.LazyInnerClassSingleton.LazyHolder" />
+    <pattern value="singleton.lazy.LazyInnerClassSingleton" />
+    <pattern value="singleton.lazy.LazySimpleSingleton" />
+    <pattern value="adapter.loginadapter.v2.adapters.LoginAdapter" method="login" />
+    <pattern value="adapter.loginadapter.v2.adapters.LoginForSinaAdapter" method="login" />
+    <pattern value="adapter.loginadapter.v2.adapters.LoginForTelAdapter" method="login" />
+    <pattern value="adapter.loginadapter.v2.adapters.LoginForTokenAdapter" method="login" />
+    <pattern value="adapter.loginadapter.v2.adapters.LoginForWechatAdapter" method="login" />
+    <pattern value="decorator.passport.old.ISignInService" method="login" />
+    <pattern value="adapter.loginadapter.v2.adapters.LoginAdapter" />
+    <pattern value="decorator.passport.upgrade.ISignInForThirdService" method="loginForQq" />
+    <pattern value="decorator.passport.upgrade.SignInForThirdServiceImpl" method="loginForQq" />
+    <pattern value="adapter.loginadapter.v2.IPassportForThird" method="loginForRegist" />
+    <pattern value="decorator.passport.upgrade.ISignInForThirdService" method="loginForRegist" />
+    <pattern value="decorator.passport.upgrade.SignInForThirdServiceImpl" method="loginForRegist" />
+    <pattern value="adapter.loginadapter.v2.adapters.LoginForSinaAdapter" />
+    <pattern value="adapter.loginadapter.v2.adapters.LoginForTelAdapter" />
+    <pattern value="adapter.loginadapter.v2.IPassportForThird" method="loginForTelephone" />
+    <pattern value="decorator.passport.upgrade.ISignInForThirdService" method="loginForTelephone" />
+    <pattern value="decorator.passport.upgrade.SignInForThirdServiceImpl" method="loginForTelephone" />
+    <pattern value="adapter.loginadapter.v2.IPassportForThird" method="loginForToken" />
+    <pattern value="decorator.passport.upgrade.ISignInForThirdService" method="loginForToken" />
+    <pattern value="decorator.passport.upgrade.SignInForThirdServiceImpl" method="loginForToken" />
+    <pattern value="adapter.loginadapter.v2.adapters.LoginForTokenAdapter" />
+    <pattern value="adapter.loginadapter.v2.IPassportForThird" method="loginForWechat" />
+    <pattern value="decorator.passport.upgrade.ISignInForThirdService" method="loginForWechat" />
+    <pattern value="decorator.passport.upgrade.SignInForThirdServiceImpl" method="loginForWechat" />
+    <pattern value="adapter.loginadapter.v2.adapters.LoginForWechatAdapter" />
+    <pattern value="proxy.dynamic.cglib.CglibTest" method="main" />
+    <pattern value="proxy.simple.Client" method="main" />
+    <pattern value="proxy.db.DbRouteProxyTest" method="main" />
+    <pattern value="decorator.passport.DecoratorTest" method="main" />
+    <pattern value="prototype.deep.DeepCloneTest" method="main" />
+    <pattern value="delegate.simple.DelegateTest" method="main" />
+    <pattern value="factory.factorymethod.FactoryMethodTest" method="main" />
+    <pattern value="proxy.s.FatherProxyTest" method="main" />
+    <pattern value="observer.guava.GuavaEventTest" method="main" />
+    <pattern value="template.jdbc.MemberDaoTest" method="main" />
+    <pattern value="observer.listener.MouseEventTest" method="main" />
+    <pattern value="template.course.NetworkCourseTest" method="main" />
+    <pattern value="observer.observable.ObserverTest" method="main" />
+    <pattern value="adapter.loginadapter.v2.PassportTest" method="main" />
+    <pattern value="strategy.pay.PayStrategyTest" method="main" />
+    <pattern value="adapter.poweradapter.PowerAdapterTest" method="main" />
+    <pattern value="strategy.promotion.PromotionActivityTest" method="main" />
+    <pattern value="prototype.simple.PrototypeTest" method="main" />
+    <pattern value="factory.simplefactory.SimpleFactoryTest" method="main" />
+    <pattern value="factory.abstractfactory.Test" method="main" />
+    <pattern value="decorator.battercake.v2.Test" method="main" />
+    <pattern value="adapter.loginadapter.Member" />
+    <pattern value="decorator.passport.old.Member" />
+    <pattern value="template.jdbc.Member" />
+    <pattern value="delegate.mvc.controller.MemberController" />
+    <pattern value="template.jdbc.dao.MemberDao" />
+    <pattern value="template.jdbc.MemberDaoTest" />
+    <pattern value="prototype.deep.Monkey" />
+    <pattern value="observer.listener.mouse.Mouse" />
+    <pattern value="observer.listener.mouse.MouseEventCallback" />
+    <pattern value="observer.listener.MouseEventTest" />
+    <pattern value="observer.listener.mouse.Mouse" method="move" />
+    <pattern value="strategy.pay.MsgResult" />
+    <pattern value="template.course.NetworkCourseTest" />
+    <pattern value="observer.observable.ObserverTest" />
+    <pattern value="observer.listener.mouse.MouseEventCallback" method="onBlur" />
+    <pattern value="observer.listener.mouse.MouseEventCallback" method="onClick" />
+    <pattern value="observer.listener.mouse.MouseEventCallback" method="onDoubleClick" />
+    <pattern value="observer.listener.mouse.MouseEventCallback" method="onDown" />
+    <pattern value="observer.listener.mouse.MouseEventCallback" method="onFocus" />
+    <pattern value="observer.listener.mouse.MouseEventCallback" method="onMove" />
+    <pattern value="observer.listener.mouse.MouseEventCallback" method="onOver" />
+    <pattern value="observer.listener.mouse.MouseEventCallback" method="onUp" />
+    <pattern value="observer.listener.mouse.MouseEventCallback" method="onWheel" />
+    <pattern value="proxy.db.Order" />
+    <pattern value="strategy.pay.Order" />
+    <pattern value="delegate.mvc.controller.OrderController" />
+    <pattern value="proxy.db.OrderDao" />
+    <pattern value="proxy.db.OrderServiceImpl" />
+    <pattern value="proxy.db.proxy.OrderServiceStaticProxyImpl" />
+    <pattern value="proxy.db.proxy.OrderServiceStaticProxyImpl" method="OrderServiceStaticProxyImpl" />
+    <pattern value="observer.listener.mouse.Mouse" method="over" />
+    <pattern value="adapter.loginadapter.v2.PassportTest" />
+    <pattern value="strategy.pay.Order" method="pay" />
+    <pattern value="strategy.pay.PayStrategyTest" />
+    <pattern value="adapter.poweradapter.PowerAdapterTest" />
+    <pattern value="strategy.promotion.PromotionActivity" />
+    <pattern value="strategy.promotion.PromotionActivityTest" />
+    <pattern value="prototype.simple.PrototypeTest" />
+    <pattern value="proxy.simple.Proxy" />
+    <pattern value="proxy.dynamic.gp.Proxy0" />
+    <pattern value="proxy.dynamic.gp.Proxy0" method="Proxy0" />
+    <pattern value="factory.abstractfactory.PythonVideo" />
+    <pattern value="prototype.deep.QiTianDaSheng" />
+    <pattern value="strategy.pay.payport.AbstractPayment" method="queryBalance" />
+    <pattern value="observer.observable.Question" />
+    <pattern value="singleton.seriable.SerialSingleton" method="readResolve" />
+    <pattern value="factory.abstractfactory.PythonVideo" method="record" />
+    <pattern value="adapter.loginadapter.v2.adapters.RegistAdapter" method="regist" />
+    <pattern value="adapter.loginadapter.v2.adapters.RegistForQqAdapter" method="regist" />
+    <pattern value="decorator.passport.old.ISignInService" method="regist" />
+    <pattern value="adapter.loginadapter.v2.adapters.RegistAdapter" />
+    <pattern value="adapter.loginadapter.v2.adapters.RegistForQqAdapter" />
+    <pattern value="singleton.threadlocal.ThreadLocalSingleton" method="remove" />
+    <pattern value="proxy.db.db.DynamicDataSourceEntity" method="removeThreadLocal" />
+    <pattern value="adapter.loginadapter.ResultMsg" />
+    <pattern value="decorator.passport.old.ResultMsg" />
+    <pattern value="decorator.passport.old.ResultMsg" method="ResultMsg" />
+    <pattern value="template.jdbc.dao.MemberDao" method="selectAll" />
+    <pattern value="singleton.seriable.SerialSingleton" />
+    <pattern value="singleton.seriable.SerialSingleton" method="SerialSingleton" />
+    <pattern value="proxy.db.db.DynamicDataSourceEntity" method="set" />
+    <pattern value="decorator.passport.old.ResultMsg" method="setCode" />
+    <pattern value="singleton.register.EnumSingleton" method="setData" />
+    <pattern value="decorator.passport.old.ResultMsg" method="setData" />
+    <pattern value="proxy.db.Order" method="setId" />
+    <pattern value="decorator.passport.old.Member" method="setInfo" />
+    <pattern value="decorator.passport.old.Member" method="setMid" />
+    <pattern value="decorator.passport.old.ResultMsg" method="setMsg" />
+    <pattern value="template.jdbc.Member" method="setNickname" />
+    <pattern value="proxy.db.Order" method="setOrderInfo" />
+    <pattern value="decorator.passport.old.Member" method="setPassword" />
+    <pattern value="decorator.passport.old.Member" method="setUsername" />
+    <pattern value="decorator.passport.upgrade.SignInForThirdServiceImpl" />
+    <pattern value="factory.simplefactory.SimpleFactoryTest" />
+    <pattern value="proxy.s.Son" />
+    <pattern value="observer.guava.GuavaEvent" method="subscribe" />
+    <pattern value="adapter.loginadapter.v2.adapters.LoginForSinaAdapter" method="support" />
+    <pattern value="adapter.loginadapter.v2.adapters.LoginForTelAdapter" method="support" />
+    <pattern value="adapter.loginadapter.v2.adapters.LoginForTokenAdapter" method="support" />
+    <pattern value="adapter.loginadapter.v2.adapters.LoginForWechatAdapter" method="support" />
+    <pattern value="adapter.loginadapter.v2.adapters.RegistAdapter" method="support" />
+    <pattern value="adapter.loginadapter.v2.adapters.RegistForQqAdapter" method="support" />
+    <pattern value="decorator.battercake.v2.Test" />
+    <pattern value="factory.abstractfactory.Test" />
+    <pattern value="singleton.threadlocal.ThreadLocalSingleton" />
+    <pattern value="observer.listener.mouse.Keyboard" method="up" />
+    <pattern value="observer.listener.mouse.Mouse" method="up" />
+    <pattern value="observer.listener.mouse.Mouse" method="wheel" />
+    <pattern value="strategy.pay.payport.AliPay" />
+    <pattern value="prototype.simple.ConcretePrototypeA" method="clone" />
+    <pattern value="prototype.simple.ConcretePrototypeB" method="clone" />
+    <pattern value="prototype.deep.QiTianDaSheng" method="clone" />
+    <pattern value="proxy.db.IOrderService" method="createOrder" />
+    <pattern value="proxy.db.OrderServiceImpl" method="createOrder" />
+    <pattern value="factory.abstractfactory.PythonCourseFactory" method="createVideo" />
+    <pattern value="adapter.poweradapter.Dc5" />
+    <pattern value="decorator.battercake.v2.EggDecorator" method="doSomething" />
+    <pattern value="decorator.battercake.v2.SausageDecorator" method="doSomething" />
+    <pattern value="proxy.db.db.DynamicDataSourceEntity" method="DynamicDataSourceEntity" />
+    <pattern value="decorator.battercake.v2.EggDecorator" />
+    <pattern value="observer.listener.core.Event" method="Event" />
+    <pattern value="proxy.dynamic.gp.GpProxy" method="generateSrc" />
+    <pattern value="observer.listener.core.Event" method="getCallback" />
+    <pattern value="proxy.dynamic.gp.GpProxy" method="getCaseCode" />
+    <pattern value="proxy.dynamic.gp.GpProxy" method="getReturnEmptyCode" />
+    <pattern value="observer.listener.core.Event" method="getTarget" />
+    <pattern value="proxy.dynamic.gp.GpInvocationHandler" />
+    <pattern value="proxy.dynamic.gp.GpMeiPo" />
+    <pattern value="proxy.dynamic.gp.GpProxy" />
+    <pattern value="proxy.dynamic.gp.GpProxyTest" />
+    <pattern value="proxy.dynamic.gp.GpProxy" method="hasReturnValue" />
+    <pattern value="singleton.hungry.HungrySingleton" method="HungrySingleton" />
+    <pattern value="singleton.hungry.HungryStaticSingleton" method="HungryStaticSingleton" />
+    <pattern value="proxy.dynamic.gp.GpInvocationHandler" method="invoke" />
+    <pattern value="proxy.dynamic.gp.GpMeiPo" method="invoke" />
+    <pattern value="proxy.db.proxy.OrderServiceDynamicProxy" method="invoke" />
+    <pattern value="proxy.db.IOrderService" />
+    <pattern value="proxy.dynamic.jdk.JdkProxyTest" />
+    <pattern value="strategy.pay.payport.JdPay" />
+    <pattern value="singleton.lazy.LazyDoubleCheckSingleton" method="LazyDoubleCheckSingleton" />
+    <pattern value="singleton.lazy.LazyInnerClassSingleton" method="LazyInnerClassSingleton" />
+    <pattern value="singleton.lazy.LazySimpleSingleton" method="LazySimpleSingleton" />
+    <pattern value="adapter.loginadapter.v2.adapters.LoginForQqAdapter" method="login" />
+    <pattern value="decorator.passport.upgrade.SignInForThirdServiceImpl" method="login" />
+    <pattern value="adapter.loginadapter.SignInService" method="login" />
+    <pattern value="decorator.passport.old.SignServiceImpl" method="login" />
+    <pattern value="adapter.loginadapter.v2.IPassportForThird" method="loginForQq" />
+    <pattern value="adapter.loginadapter.v2.PassportForThirdAdapter" method="loginForQq" />
+    <pattern value="adapter.loginadapter.v2.adapters.LoginForQqAdapter" />
+    <pattern value="adapter.loginadapter.v2.PassportForThirdAdapter" method="loginForRegist" />
+    <pattern value="adapter.loginadapter.v2.PassportForThirdAdapter" method="loginForTelephone" />
+    <pattern value="adapter.loginadapter.v2.PassportForThirdAdapter" method="loginForToken" />
+    <pattern value="adapter.loginadapter.v2.PassportForThirdAdapter" method="loginForWechat" />
+    <pattern value="proxy.dynamic.gp.GpProxyTest" method="main" />
+    <pattern value="proxy.dynamic.jdk.JdkProxyTest" method="main" />
+    <pattern value="proxy.dynamic.gp.GpProxy" method="newProxyInstance" />
+    <pattern value="proxy.db.proxy.OrderServiceDynamicProxy" />
+    <pattern value="adapter.poweradapter.Dc5" method="outputDc5V" />
+    <pattern value="adapter.poweradapter.PowerAdapter" method="outputDc5V" />
+    <pattern value="adapter.loginadapter.v2.PassportForThirdAdapter" />
+    <pattern value="adapter.poweradapter.PowerAdapter" />
+    <pattern value="factory.abstractfactory.PythonCourseFactory" />
+    <pattern value="strategy.pay.payport.AliPay" method="queryBalance" />
+    <pattern value="strategy.pay.payport.JdPay" method="queryBalance" />
+    <pattern value="strategy.pay.payport.UnionPay" method="queryBalance" />
+    <pattern value="strategy.pay.payport.WechatPay" method="queryBalance" />
+    <pattern value="decorator.passport.upgrade.SignInForThirdServiceImpl" method="regist" />
+    <pattern value="adapter.loginadapter.SignInService" method="regist" />
+    <pattern value="decorator.passport.old.SignServiceImpl" method="regist" />
+    <pattern value="decorator.battercake.v2.SausageDecorator" />
+    <pattern value="observer.listener.core.Event" method="setSource" />
+    <pattern value="observer.listener.core.Event" method="setTime" />
+    <pattern value="observer.listener.core.Event" method="setTrigger" />
+    <pattern value="adapter.loginadapter.SignInService" />
+    <pattern value="decorator.passport.old.SignServiceImpl" />
+    <pattern value="proxy.dynamic.gp.GpProxy" method="toLowerFirstCase" />
+    <pattern value="observer.listener.core.Event" method="toString" />
+    <pattern value="strategy.pay.payport.UnionPay" />
+    <pattern value="strategy.pay.payport.WechatPay" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
